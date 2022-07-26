@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/TrialProjects/MavenSelenium">
+        <classes>
+            <class name="com.banking.testCases.Alerts">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.BrokenLinksHandel">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.BrowserOptionsMethods">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.CalenederTest">
+                <methods>
+                    <include name="selectDateTest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.E2EAssignment1">
+                <methods>
+                    <include name="login"/>
+                    <include name="addtocart"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.GreenKartHome">
+                <methods>
+                    <include name="AddtoCarttest"/>
+                    <include name="Checkouttest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.InterviewQuestions">
+                <methods>
+                    <include name="countAllLinks"/>
+                    <include name="countSpecificAreaLinks"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.JavaStreams">
+                <methods>
+                    <include name="numsStreamTest"/>
+                    <include name="stringStreamTest"/>
+                    <include name="testt"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.LoginTest">
+                <methods>
+                    <include name="wrongPasswordLogin"/>
+                    <include name="forgetPassword"/>
+                    <include name="loginHappyPath"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.MouseEvents">
+                <methods>
+                    <include name="MouseEventTest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.RelativeLocators">
+                <methods>
+                    <include name="RelativeLocatorstest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.Scrolling">
+                <methods>
+                    <include name="scrollTest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.SeleniumScreenShots">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.SortedList">
+                <methods>
+                    <include name="sortedListTest"/>
+                    <include name="getPriceTest"/>
+                    <include name="getPriceWithPaginationTest"/>
+                    <include name="filterTest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.SpiceJet">
+                <methods>
+                    <include name="endTOendTest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.TicketBookingHomePage">
+                <methods>
+                    <include name="test"/>
+                    <include name="staticDropdown"/>
+                    <include name="dynamicDropdown"/>
+                    <include name="autoSuggestDropdown"/>
+                    <include name="checkBox"/>
+                    <include name="checkBox_assignment"/>
+                    <include name="calanderTest"/>
+                    <include name="disabledElementTest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.Waits">
+                <methods>
+                    <include name="fluentWaitTest"/>
+                </methods>
+            </class>
+            <class name="com.banking.testCases.WindowActivities">
+                <methods>
+                    <include name="test"/>
+                    <include name="windowSwitchTest"/>
+                    <include name="iframeTest"/>
+                    <include name="switchWindowTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

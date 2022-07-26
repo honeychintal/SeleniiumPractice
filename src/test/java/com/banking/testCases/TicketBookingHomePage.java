@@ -21,7 +21,7 @@ public class TicketBookingHomePage {
     }
 
     @Test
-    public void test() {
+    public void test() throws InterruptedException {
         WebDriver driver= setup();
         String[] dropValues ={"USD","INR","AED"};
         WebElement dropDwnelement = driver.findElement(By.name("ctl00$mainContent$DropDownListCurrency"));
@@ -30,6 +30,7 @@ public class TicketBookingHomePage {
         {
             dropDown.selectByValue(val);
             System.out.println("dropdown value = "+dropDown.getFirstSelectedOption().getText());
+            Thread.sleep(2000);
         }
     }
     @Test

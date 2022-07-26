@@ -1,0 +1,2160 @@
+{
+    "page": {
+        "name": "Top Live/Upcoming Events",
+        "layout": "curated",
+        "edition": {
+            "name": "United States",
+            "country": {
+                "name": "United States of America"
+            },
+            "branding": {
+                "name": "ESPN",
+                "logoUrl": "http://a.espncdn.com/redesign/assets/img/logos/logo-espn-blk-90x22@2x.png",
+                "lightLogoUrl": "http://a.espncdn.com/redesign/assets/img/logos/logo-espn-90x22@2x.png"
+            }
+        },
+        "tracking": {
+            "context": {
+                "PageName": "Top Live/Upcoming Events",
+                "ContentType": "Index",
+                "AppName": "watchespn:Watchespn WEB",
+                "Platform": "Watchespn WEB",
+                "Language": "English"
+            }
+        },
+        "isDtcOnly": false,
+        "isTveOnly": false,
+        "buckets": [
+            {
+                "id": 92,
+                "name": "Upcoming",
+                "metadata": {
+                    "totalCount": 13,
+                    "displayCount": 13,
+                    "displayMinimum": 0,
+                    "ratio": "16x9",
+                    "imageFormat": "16x9",
+                    "size": "md",
+                    "bucketId": 92,
+                    "combinedTile": false,
+                    "curated": true,
+                    "grouped": false,
+                    "scored": true
+                },
+                "links": {
+                    "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/bucket?bucketId=92&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                    "web": "http://www.espn.com/watch/collections/92/upcoming",
+                    "shareUrl": "http://www.espn.com/watch/collections/92/upcoming"
+                },
+                "description": "What's next on ESPN's neworks",
+                "tags": [
+                    "WEB_UPCOMING"
+                ],
+                "isDtcOnly": false,
+                "isTveOnly": false,
+                "contents": [
+                    {
+                        "id": 1413534,
+                        "name": "NFL Live",
+                        "shortName": "NFL Live",
+                        "subtitle": "NFL",
+                        "status": "upcoming",
+                        "type": "event",
+                        "tags": [
+                            "s:20",
+                            "s:20~l:28"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/97a44bd4-6a6b-4878-bc4e-398ebe59d890/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T16:00:00-04:00",
+                        "time": "4:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>NFL Live</title><guid>espn1/NFL Live/1413534</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 3450,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "97a44bd4-6a6b-4878-bc4e-398ebe59d890",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "fb",
+                            "leagueCode": "nfl",
+                            "network": "espn1",
+                            "programCode": "FBPN"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413534&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413534"
+                        },
+                        "iconHref": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&w=100&h=100&transparent=true"
+                    },
+                    {
+                        "id": 1412533,
+                        "name": "Around The Horn Presented by Corona Extra",
+                        "shortName": "Around The Horn",
+                        "subtitle": "Talk",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/c928d301-b4ed-4c2e-9d02-25d661ab4c05/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T17:00:00-04:00",
+                        "time": "5:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>Around The Horn Presented by Corona Extra</title><guid>espn1/Around The Horn Presented by Corona Extra/1412533</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 3300,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "c928d301-b4ed-4c2e-9d02-25d661ab4c05",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "ta",
+                            "network": "espn1",
+                            "programCode": "TAAH"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1412533&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1412533"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1413544,
+                        "name": "Pardon The Interruption Presented by Corona Extra",
+                        "shortName": "Pardon The Interruption",
+                        "subtitle": "ESPN Original Entertainment",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/46297595-d8be-43a6-818f-8a8527e24fdc/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T17:30:00-04:00",
+                        "time": "5:30 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>Pardon The Interruption Presented by Corona Extra</title><guid>espn1/Pardon The Interruption Presented by Corona Extra/1413544</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 3300,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "46297595-d8be-43a6-818f-8a8527e24fdc",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "eo",
+                            "network": "espn1",
+                            "programCode": "EOPT"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413544&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413544"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1406545,
+                        "name": "SportsCenter",
+                        "shortName": "SportsCenter",
+                        "subtitle": "SportsCenter",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/b59b0edd-a079-4deb-b2dc-b3a629df6e1a/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T18:00:00-04:00",
+                        "time": "6:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>SportsCenter</title><guid>espn1/SportsCenter/1406545</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 3150,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "b59b0edd-a079-4deb-b2dc-b3a629df6e1a",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "sr",
+                            "network": "espn1",
+                            "programCode": "SREB"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1406545&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1406545"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1413577,
+                        "name": "NBA Today",
+                        "shortName": "NBA Today",
+                        "subtitle": "Basketball",
+                        "status": "upcoming",
+                        "type": "event",
+                        "tags": [
+                            "s:40"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/b0f19e65-3fec-4742-a580-dd7a08aea0e6/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T15:00:00-04:00",
+                        "time": "3:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>NBA Today</title><guid>espn1/NBA Today/1413577</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 2750,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "b0f19e65-3fec-4742-a580-dd7a08aea0e6",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "bk",
+                            "network": "espn1",
+                            "programCode": "BKDS"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413577&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413577"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1412568,
+                        "name": "Cronómetro",
+                        "shortName": "Cronómetro",
+                        "subtitle": "Talk",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/150e91f3-10cc-48ff-b2cc-05d6cd31ac93/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T17:00:00-04:00",
+                        "time": "5:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>Cronómetro</title><guid>espndeportes/Cronómetro/1412568</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 2700,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "150e91f3-10cc-48ff-b2cc-05d6cd31ac93",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "ta",
+                            "network": "espndeportes",
+                            "programCode": "TASR"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1412568&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1412568"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1412601,
+                        "name": "Daily Wager",
+                        "shortName": "Daily Wager",
+                        "subtitle": "Talk",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/191f0f77-ffbf-4b01-bf3c-35ef23a9ee08/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T18:00:00-04:00",
+                        "time": "6:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN2",
+                        "source": "ESPN2",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn2</title><item><title>Daily Wager</title><guid>espn2/Daily Wager/1412601</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 2700,
+                        "monitoring": {
+                            "name": "espn2"
+                        },
+                        "tracking": {
+                            "trackingId": "191f0f77-ffbf-4b01-bf3c-35ef23a9ee08",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "ta",
+                            "network": "espn2",
+                            "programCode": "TASG"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1412601&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN2&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1412601"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1412580,
+                        "name": "Ahora o Nunca",
+                        "shortName": "Ahora o Nunca",
+                        "subtitle": "Talk",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/e2768c66-7691-4ba8-83a4-07ec70ee3060/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T18:00:00-04:00",
+                        "time": "6:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>Ahora o Nunca</title><guid>espndeportes/Ahora o Nunca/1412580</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 2700,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "e2768c66-7691-4ba8-83a4-07ec70ee3060",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "ta",
+                            "network": "espndeportes",
+                            "programCode": "TAAN"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1412580&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1412580"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1407147,
+                        "name": "SportsCenter",
+                        "shortName": "SportsCenter",
+                        "subtitle": "ES • SportsCenter",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/f935d645-64e9-4079-bc75-152e9ae3f5f7/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T16:00:00-04:00",
+                        "time": "4:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>SportsCenter</title><guid>espndeportes/SportsCenter/1407147</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1700,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "f935d645-64e9-4079-bc75-152e9ae3f5f7",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "sr",
+                            "network": "espndeportes",
+                            "programCode": "SRIG"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1407147&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1407147"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1413624,
+                        "name": "ESPN Films",
+                        "shortName": "ESPN Films",
+                        "subtitle": "RE-AIR • ESPN Original Entertainment",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/8767c18e-6232-44b9-92be-b9f8097b5acc/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T19:00:00-04:00",
+                        "time": "7:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>ESPN Films</title><guid>espn1/ESPN Films/1413624</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": -17650,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "8767c18e-6232-44b9-92be-b9f8097b5acc",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "eo",
+                            "network": "espn1",
+                            "programCode": "EODC"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413624&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413624"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1413865,
+                        "name": "NBA Today",
+                        "shortName": "NBA Today",
+                        "subtitle": "RE-AIR • Basketball",
+                        "status": "upcoming",
+                        "type": "event",
+                        "tags": [
+                            "s:40"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/8e78a579-50f1-4e45-afd6-e436f18ff4ef/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T16:30:00-04:00",
+                        "time": "4:30 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPN2",
+                        "source": "ESPN2",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn2</title><item><title>NBA Today</title><guid>espn2/NBA Today/1413865</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": -18000,
+                        "monitoring": {
+                            "name": "espn2"
+                        },
+                        "tracking": {
+                            "trackingId": "8e78a579-50f1-4e45-afd6-e436f18ff4ef",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "bk",
+                            "network": "espn2",
+                            "programCode": "BKDS"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413865&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN2&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413865"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1407372,
+                        "name": "SportsCenter",
+                        "shortName": "SportsCenter",
+                        "subtitle": "RE-AIR • ES • SportsCenter",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/55cc8e31-54a5-45ae-8e91-b9db11ed6c79/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T11:30:00-04:00",
+                        "time": "11:30 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>SportsCenter</title><guid>espndeportes/SportsCenter/1407372</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": -18700,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "55cc8e31-54a5-45ae-8e91-b9db11ed6c79",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "sr",
+                            "network": "espndeportes",
+                            "programCode": "SRMD"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1407372&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1407372"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1407456,
+                        "name": "SportsCenter",
+                        "shortName": "SportsCenter",
+                        "subtitle": "RE-AIR • ES • SportsCenter",
+                        "status": "upcoming",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/004e8010-a66f-4cb5-b083-27c90a7289b4/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T13:00:00-04:00",
+                        "time": "1:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>SportsCenter</title><guid>espndeportes/SportsCenter/1407456</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": -18700,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "004e8010-a66f-4cb5-b083-27c90a7289b4",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "sr",
+                            "network": "espndeportes",
+                            "programCode": "SRMD"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1407456&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1407456"
+                        },
+                        "iconHref": "audio02"
+                    }
+                ]
+            },
+            {
+                "id": 95,
+                "name": "Top Live",
+                "metadata": {
+                    "totalCount": 29,
+                    "displayCount": 29,
+                    "displayMinimum": 0,
+                    "ratio": "16x9",
+                    "imageFormat": "16x9",
+                    "size": "md",
+                    "bucketId": 95,
+                    "combinedTile": false,
+                    "curated": true,
+                    "grouped": false,
+                    "scored": true
+                },
+                "links": {
+                    "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/bucket?bucketId=95&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                    "web": "http://www.espn.com/watch/collections/95/top-live",
+                    "shareUrl": "http://www.espn.com/watch/collections/95/top-live"
+                },
+                "description": "Top Live",
+                "tags": [
+                    "WEB_LIVE"
+                ],
+                "isDtcOnly": false,
+                "isTveOnly": false,
+                "contents": [
+                    {
+                        "id": 1351769,
+                        "name": "NFL Live",
+                        "shortName": "NFL Live",
+                        "subtitle": "NFL",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "1:00:00",
+                        "tags": [
+                            "s:20",
+                            "s:20~l:28"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/media/198d818e-5aa1-4f2b-918b-90a870b57ec8/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Monday, March 29",
+                        "shortDate": "Mon, 3/29",
+                        "rawDate": "2021-03-29T16:00:00-04:00",
+                        "time": "4:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "112402221",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn1&simulcastAiringId=112402221",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>NFL Live</title><guid>espn1/NFL Live/1351769</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002450,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "198d818e-5aa1-4f2b-918b-90a870b57ec8",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "fb",
+                            "leagueCode": "nfl",
+                            "network": "espn1",
+                            "programCode": "FBPN",
+                            "duration": 3600
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1351769&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1351769"
+                        },
+                        "iconHref": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&w=100&h=100&transparent=true"
+                    },
+                    {
+                        "id": 1351869,
+                        "name": "NFL Live",
+                        "shortName": "NFL Live",
+                        "subtitle": "NFL",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "1:00:00",
+                        "tags": [
+                            "s:20",
+                            "s:20~l:28"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/media/aeb6a5d6-35bc-4047-a18b-427df13564c9/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, March 30",
+                        "shortDate": "Tue, 3/30",
+                        "rawDate": "2021-03-30T16:00:00-04:00",
+                        "time": "4:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "112395630",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn1&simulcastAiringId=112395630",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>NFL Live</title><guid>espn1/NFL Live/1351869</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002450,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "aeb6a5d6-35bc-4047-a18b-427df13564c9",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "fb",
+                            "leagueCode": "nfl",
+                            "network": "espn1",
+                            "programCode": "FBPN",
+                            "duration": 3600
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1351869&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1351869"
+                        },
+                        "iconHref": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&w=100&h=100&transparent=true"
+                    },
+                    {
+                        "id": 1258660,
+                        "name": "Around The Horn",
+                        "shortName": "Around The Horn",
+                        "subtitle": "Talk",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "30:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/1eb21fdb-4013-4575-ad6a-3be4c432d6dc/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 14",
+                        "shortDate": "Tue, 7/14",
+                        "rawDate": "2020-07-14T17:00:00-04:00",
+                        "time": "5:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a111279554",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn1",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>Around The Horn</title><guid>espn1/Around The Horn/1258660</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002300,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "1eb21fdb-4013-4575-ad6a-3be4c432d6dc",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "ta",
+                            "network": "espn1",
+                            "programCode": "TAAH",
+                            "duration": 1800
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1258660&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1258660"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1351761,
+                        "name": "Highly Questionable",
+                        "shortName": "Highly Questionable",
+                        "subtitle": "Talk",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "30:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/media/3ade6f0d-4aa5-447b-945c-e9406aa4fc1e/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Monday, March 29",
+                        "shortDate": "Mon, 3/29",
+                        "rawDate": "2021-03-29T14:30:00-04:00",
+                        "time": "2:30 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "112404468",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn1&simulcastAiringId=112404468",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>Highly Questionable</title><guid>espn1/Highly Questionable/1351761</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002300,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "3ade6f0d-4aa5-447b-945c-e9406aa4fc1e",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "ta",
+                            "network": "espn1",
+                            "programCode": "TALB",
+                            "duration": 1800
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1351761&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1351761"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1402026,
+                        "name": "Minnesota Twins vs. Detroit Tigers",
+                        "shortName": "Minnesota Twins vs. Detroit Tigers",
+                        "subtitle": "MLB",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "1:30:00",
+                        "tags": [
+                            "s:1~l:10~t:6",
+                            "s:1~l:10~t:9",
+                            "s:1",
+                            "s:1~l:10"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/43a9631c-5aa0-4996-b5ea-c806cb109ed3/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, December 16",
+                        "shortDate": "Thu, 12/16",
+                        "rawDate": "2021-12-16T15:30:00-05:00",
+                        "time": "3:30 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a115345096",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espnu",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNU",
+                        "source": "ESPNU",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espnu</title><item><title>Minnesota Twins vs. Detroit Tigers</title><guid>espnu/Minnesota Twins vs. Detroit Tigers/1402026</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002225,
+                        "monitoring": {
+                            "name": "espnu"
+                        },
+                        "tracking": {
+                            "trackingId": "43a9631c-5aa0-4996-b5ea-c806cb109ed3",
+                            "isStudio": false,
+                            "sport": "Baseball",
+                            "sportCode": "bb",
+                            "league": "Major League Baseball",
+                            "leagueCode": "mlb",
+                            "network": "espnu",
+                            "programCode": "BBAB",
+                            "duration": 5400
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1402026&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNU&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1402026"
+                        },
+                        "iconHref": "http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png&w=100&h=100&transparent=true"
+                    },
+                    {
+                        "id": 1402012,
+                        "name": "CFP Megacast Testing",
+                        "shortName": "Sunday NFL Countdown",
+                        "subtitle": "Football",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "12:00:00",
+                        "tags": [
+                            "s:20"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/ac49a226-fdaf-497c-a5d4-69d7257295ad/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, December 16",
+                        "shortDate": "Thu, 12/16",
+                        "rawDate": "2021-12-16T09:00:00-05:00",
+                        "time": "9:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a115344511",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn1",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>CFP Megacast Testing</title><guid>espn1/CFP Megacast Testing/1402012</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002050,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "ac49a226-fdaf-497c-a5d4-69d7257295ad",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "fb",
+                            "network": "espn1",
+                            "programCode": "FBPR",
+                            "duration": 43200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1402012&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1402012"
+                        },
+                        "iconHref": "football"
+                    },
+                    {
+                        "id": 1413274,
+                        "name": "The Championships, Wimbledon 2022 (Quarterfinals: Centre Court)",
+                        "shortName": "The Championships, Wimbledon 2022 (Quarterfinals: Centre Court)",
+                        "subtitle": "Tennis",
+                        "status": "live",
+                        "type": "event",
+                        "tags": [
+                            "s:845"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/e0c9be2b-1d6f-441e-96ea-ff49749e9b9c/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T08:00:00-04:00",
+                        "time": "8:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a112990897",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn1",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>The Championships, Wimbledon 2022 (Quarterfinals: Centre Court)</title><guid>espn1/The Championships, Wimbledon 2022 (Quarterfinals: Centre Court)/1413274</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002050,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "e0c9be2b-1d6f-441e-96ea-ff49749e9b9c",
+                            "isStudio": false,
+                            "sport": "Tennis",
+                            "sportCode": "tn",
+                            "league": "No League",
+                            "network": "espn1",
+                            "programCode": "TNIW"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413274&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413274"
+                        }
+                    },
+                    {
+                        "id": 1402013,
+                        "name": "CFP Megacast Testing",
+                        "shortName": "Sunday NFL Countdown",
+                        "subtitle": "Football",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "12:00:00",
+                        "tags": [
+                            "s:20"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/56c05df7-1830-4fff-bd1e-c843a9fbf68c/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, December 16",
+                        "shortDate": "Thu, 12/16",
+                        "rawDate": "2021-12-16T09:00:00-05:00",
+                        "time": "9:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a115344544",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn2",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN2",
+                        "source": "ESPN2",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn2</title><item><title>CFP Megacast Testing</title><guid>espn2/CFP Megacast Testing/1402013</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002000,
+                        "monitoring": {
+                            "name": "espn2"
+                        },
+                        "tracking": {
+                            "trackingId": "56c05df7-1830-4fff-bd1e-c843a9fbf68c",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "fb",
+                            "network": "espn2",
+                            "programCode": "FBPR",
+                            "duration": 43200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1402013&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN2&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1402013"
+                        },
+                        "iconHref": "football"
+                    },
+                    {
+                        "id": 1407863,
+                        "name": "SportsCenter",
+                        "shortName": "SportsCenter",
+                        "subtitle": "SportsCenter",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "1:00:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/276643f4-dee7-4d1d-8607-c491716f1e8a/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Sunday, July 03",
+                        "shortDate": "Sun, 7/3",
+                        "rawDate": "2022-07-03T12:00:00-04:00",
+                        "time": "12:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a114438015",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn2",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN2",
+                        "source": "ESPN2",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn2</title><item><title>SportsCenter</title><guid>espn2/SportsCenter/1407863</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1002000,
+                        "monitoring": {
+                            "name": "espn2"
+                        },
+                        "tracking": {
+                            "trackingId": "276643f4-dee7-4d1d-8607-c491716f1e8a",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "sr",
+                            "network": "espn2",
+                            "programCode": "SRDW",
+                            "duration": 3600
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1407863&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN2&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1407863"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1219300,
+                        "name": "Grand Canyon University vs. CSU Bakersfield",
+                        "shortName": "Grand Canyon University vs. CSU Bakersfield",
+                        "subtitle": "NCAAM",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:25:00",
+                        "tags": [
+                            "s:40~l:41~t:2934",
+                            "s:40",
+                            "s:40~l:41",
+                            "s:40~l:41~t:2253"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/265a0ae2-1411-4411-8d2b-f03c9cf8751d/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Saturday, February 02",
+                        "shortDate": "Sat, 2/2",
+                        "rawDate": "2019-02-02T22:00:00-05:00",
+                        "time": "10:00 PM",
+                        "authTypes": [
+                            "isp",
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a111154524",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn3&simulcastAiringId=111154524",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN3",
+                        "source": "ESPN3",
+                        "sourceType": "online",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn3</title><item><title>Grand Canyon University vs. CSU Bakersfield</title><guid>espn3/Grand Canyon University vs. CSU Bakersfield/1219300</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "WF",
+                        "score": 1002000,
+                        "monitoring": {
+                            "name": "Grand Canyon University vs. CSU Bakersfield - 265a0ae2-1411-4411-8d2b-f03c9cf8751d"
+                        },
+                        "tracking": {
+                            "trackingId": "265a0ae2-1411-4411-8d2b-f03c9cf8751d",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "Men's College Basketball",
+                            "leagueCode": "ncaam",
+                            "network": "espn3",
+                            "programCode": "BKWA",
+                            "duration": 8700
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1219300&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?id=1219300&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1219300"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1219922,
+                        "name": "New Mexico State vs. CSU Bakersfield",
+                        "shortName": "New Mexico State vs. CSU Bakersfield",
+                        "subtitle": "NCAAM",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:10:00",
+                        "tags": [
+                            "s:40~l:41~t:2934",
+                            "s:40",
+                            "s:40~l:41",
+                            "s:40~l:41~t:166"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/933fbf1a-bc53-45b2-82d4-e4770b53720b/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, February 07",
+                        "shortDate": "Thu, 2/7",
+                        "rawDate": "2019-02-07T22:00:00-05:00",
+                        "time": "10:00 PM",
+                        "authTypes": [
+                            "isp",
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a111154526",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn3&simulcastAiringId=111154526",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN3",
+                        "source": "ESPN3",
+                        "sourceType": "online",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn3</title><item><title>New Mexico State vs. CSU Bakersfield</title><guid>espn3/New Mexico State vs. CSU Bakersfield/1219922</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "SCHOOL",
+                        "score": 1002000,
+                        "monitoring": {
+                            "name": "New Mexico State vs. CSU Bakersfield - 933fbf1a-bc53-45b2-82d4-e4770b53720b"
+                        },
+                        "tracking": {
+                            "trackingId": "933fbf1a-bc53-45b2-82d4-e4770b53720b",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "Men's College Basketball",
+                            "leagueCode": "ncaam",
+                            "network": "espn3",
+                            "programCode": "BKWA",
+                            "duration": 7800
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1219922&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?id=1219922&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1219922"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1221478,
+                        "name": "#2 Connecticut vs. Wichita State",
+                        "shortName": "#2 Connecticut vs. Wichita State",
+                        "subtitle": "NCAAW",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:00:00",
+                        "tags": [
+                            "s:40~l:54~t:41",
+                            "s:40",
+                            "s:40~l:54",
+                            "s:40~l:54~t:2724"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/5bd123b3-1b72-491c-9998-dd404aa3ac95/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, February 26",
+                        "shortDate": "Tue, 2/26",
+                        "rawDate": "2019-02-26T19:30:00-05:00",
+                        "time": "7:30 PM",
+                        "authTypes": [
+                            "isp",
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a111117562",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn3&simulcastAiringId=111117562",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN3",
+                        "source": "ESPN3",
+                        "sourceType": "online",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn3</title><item><title>#2 Connecticut vs. Wichita State</title><guid>espn3/#2 Connecticut vs. Wichita State/1221478</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "RSN",
+                        "score": 1002000,
+                        "monitoring": {
+                            "name": "#2 Connecticut vs. Wichita State - 5bd123b3-1b72-491c-9998-dd404aa3ac95"
+                        },
+                        "tracking": {
+                            "trackingId": "5bd123b3-1b72-491c-9998-dd404aa3ac95",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "Womens College Basketball",
+                            "leagueCode": "ncaaw",
+                            "network": "espn3",
+                            "programCode": "BKCW",
+                            "duration": 7200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1221478&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?id=1221478&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1221478"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1407751,
+                        "name": "SportsCenter",
+                        "shortName": "SportsCenter",
+                        "subtitle": "SportsCenter",
+                        "status": "live",
+                        "type": "event",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/a2aac03b-ebc2-4b28-8009-348bd3dc0642/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T09:00:00-04:00",
+                        "time": "9:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a113868289",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espnews",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNEWS",
+                        "source": "ESPNews",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espnews</title><item><title>SportsCenter</title><guid>espnews/SportsCenter/1407751</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001925,
+                        "monitoring": {
+                            "name": "espnews"
+                        },
+                        "tracking": {
+                            "trackingId": "a2aac03b-ebc2-4b28-8009-348bd3dc0642",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "sr",
+                            "network": "espnews",
+                            "programCode": "SRAM"
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1407751&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNEWS&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1407751"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1351002,
+                        "name": "Jalen & Jacoby",
+                        "shortName": "Jalen & Jacoby",
+                        "subtitle": "ESPN Radio",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "30:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/media/d8bc7065-c490-4f07-a304-f9b914f4ca1d/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Monday, February 22",
+                        "shortDate": "Mon, 2/22",
+                        "rawDate": "2021-02-22T14:00:00-05:00",
+                        "time": "2:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "112791008",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn1&simulcastAiringId=112791008",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN1",
+                        "source": "ESPN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn1</title><item><title>Jalen &amp; Jacoby</title><guid>espn1/Jalen &amp; Jacoby/1351002</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001750,
+                        "monitoring": {
+                            "name": "espn1"
+                        },
+                        "tracking": {
+                            "trackingId": "d8bc7065-c490-4f07-a304-f9b914f4ca1d",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "er",
+                            "network": "espn1",
+                            "programCode": "ERJJ",
+                            "duration": 1800
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1351002&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPN1&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1351002"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1363183,
+                        "name": "Oklahoma vs. Georgia",
+                        "shortName": "Oklahoma vs. Georgia",
+                        "subtitle": "NCAA Softball",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:00:00",
+                        "tags": [
+                            "s:100",
+                            "s:100~l:102",
+                            "s:100~l:102~t:0"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/0a46142c-2ca6-45af-b3df-a6cfab0a0747/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, April 20",
+                        "shortDate": "Tue, 4/20",
+                        "rawDate": "2021-04-20T17:00:00-04:00",
+                        "time": "5:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "113985589",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=sec",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "SEC",
+                        "source": "SECN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>sec</title><item><title>Oklahoma vs. Georgia</title><guid>sec/Oklahoma vs. Georgia/1363183</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001700,
+                        "monitoring": {
+                            "name": "sec"
+                        },
+                        "tracking": {
+                            "trackingId": "0a46142c-2ca6-45af-b3df-a6cfab0a0747",
+                            "isStudio": false,
+                            "sport": "Softball",
+                            "sportCode": "sb",
+                            "league": "NCAA Softball",
+                            "leagueCode": "ncaa-softball",
+                            "network": "sec",
+                            "programCode": "SBCO",
+                            "duration": 7200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1363183&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=SEC&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1363183"
+                        },
+                        "iconHref": "baseball"
+                    },
+                    {
+                        "id": 1346822,
+                        "name": "ACC/Big Ten Challenge (Do Not Use)",
+                        "shortName": "ACC/Big Ten Challenge (Do Not Use)",
+                        "subtitle": "Basketball",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:00:01",
+                        "tags": [
+                            "s:40"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/c464bf5d-debe-4fcf-bdd9-ae8d15634e0e/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Wednesday, December 09",
+                        "shortDate": "Wed, 12/9",
+                        "rawDate": "2020-12-09T15:00:00-05:00",
+                        "time": "3:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "113562013",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espnu",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNU",
+                        "source": "ESPNU",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espnu</title><item><title>ACC/Big Ten Challenge (Do Not Use)</title><guid>espnu/ACC Big Ten Challenge (Do Not Use)/1346822</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001625,
+                        "monitoring": {
+                            "name": "espnu"
+                        },
+                        "tracking": {
+                            "trackingId": "c464bf5d-debe-4fcf-bdd9-ae8d15634e0e",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "No League",
+                            "network": "espnu",
+                            "programCode": "BKAA",
+                            "duration": 7201
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1346822&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNU&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1346822"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1363299,
+                        "name": "WNBA Draft - 04-14",
+                        "shortName": "WNBA Draft - 04-14",
+                        "subtitle": "Basketball",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "20:00:00",
+                        "tags": [
+                            "s:40"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/d50aa520-c5bc-4709-a73f-8169c3926228/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Wednesday, April 14",
+                        "shortDate": "Wed, 4/14",
+                        "rawDate": "2021-04-14T01:00:00-04:00",
+                        "time": "1:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "113800494",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espnu",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNU",
+                        "source": "ESPNU",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espnu</title><item><title>WNBA Draft - 04-14</title><guid>espnu/WNBA Draft - 04-14/1363299</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001625,
+                        "monitoring": {
+                            "name": "espnu"
+                        },
+                        "tracking": {
+                            "trackingId": "d50aa520-c5bc-4709-a73f-8169c3926228",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "No League",
+                            "network": "espnu",
+                            "programCode": "BKXP",
+                            "duration": 72000
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1363299&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNU&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1363299"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1363298,
+                        "name": "WNBA Draft - 04-14",
+                        "shortName": "WNBA Draft - 04-14",
+                        "subtitle": "Basketball",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "20:00:00",
+                        "tags": [
+                            "s:40"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/d50aa520-c5bc-4709-a73f-8169c3926228/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Wednesday, April 14",
+                        "shortDate": "Wed, 4/14",
+                        "rawDate": "2021-04-14T01:00:00-04:00",
+                        "time": "1:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "113800494",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espnews",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNEWS",
+                        "source": "ESPNews",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espnews</title><item><title>WNBA Draft - 04-14</title><guid>espnews/WNBA Draft - 04-14/1363298</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001525,
+                        "monitoring": {
+                            "name": "espnews"
+                        },
+                        "tracking": {
+                            "trackingId": "d50aa520-c5bc-4709-a73f-8169c3926228",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "No League",
+                            "network": "espnews",
+                            "programCode": "BKXP",
+                            "duration": 72000
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1363298&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNEWS&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1363298"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1402022,
+                        "name": "CFP Megacast Testing",
+                        "shortName": "Sunday NFL Countdown",
+                        "subtitle": "Football",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "12:00:00",
+                        "tags": [
+                            "s:20"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/9107f221-816d-4825-856e-0d565bfbb208/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, December 16",
+                        "shortDate": "Thu, 12/16",
+                        "rawDate": "2021-12-16T09:00:00-05:00",
+                        "time": "9:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a115344581",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espnews",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNEWS",
+                        "source": "ESPNews",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espnews</title><item><title>CFP Megacast Testing</title><guid>espnews/CFP Megacast Testing/1402022</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001525,
+                        "monitoring": {
+                            "name": "espnews"
+                        },
+                        "tracking": {
+                            "trackingId": "9107f221-816d-4825-856e-0d565bfbb208",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "fb",
+                            "network": "espnews",
+                            "programCode": "FBPR",
+                            "duration": 43200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1402022&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNEWS&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1402022"
+                        },
+                        "iconHref": "football"
+                    },
+                    {
+                        "id": 1404066,
+                        "name": "Mount Vernon Nazarene vs. Indiana Wesleyan",
+                        "shortName": "Mount Vernon Nazarene vs. Indiana Wesleyan",
+                        "subtitle": "Basketball",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "3:00:00",
+                        "tags": [
+                            "s:40"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/20ca5785-daad-4026-beb2-2b22a8bbb1d1/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Saturday, February 19",
+                        "shortDate": "Sat, 2/19",
+                        "rawDate": "2022-02-19T15:00:00-05:00",
+                        "time": "3:00 PM",
+                        "authTypes": [
+                            "isp",
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a115314355",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espn3&simulcastAiringId=115314355",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPN3",
+                        "source": "ESPN3",
+                        "sourceType": "online",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espn3</title><item><title>Mount Vernon Nazarene vs. Indiana Wesleyan</title><guid>espn3/Mount Vernon Nazarene vs. Indiana Wesleyan/1404066</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "SCHOOL",
+                        "score": 1001500,
+                        "monitoring": {
+                            "name": "Mount Vernon Nazarene vs. Indiana Wesleyan - 20ca5785-daad-4026-beb2-2b22a8bbb1d1"
+                        },
+                        "tracking": {
+                            "trackingId": "20ca5785-daad-4026-beb2-2b22a8bbb1d1",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "No League",
+                            "network": "espn3",
+                            "programCode": "BKAH",
+                            "duration": 10800
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1404066&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?id=1404066&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1404066"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1355976,
+                        "name": "MEM - Angry Sky 03242021",
+                        "shortName": "MEM - Angry Sky 03242021",
+                        "subtitle": "ES • ESPN Original Entertainment",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "3:00:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/aa63041f-b066-4bc1-8619-4f3de2112aff/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Wednesday, March 24",
+                        "shortDate": "Wed, 3/24",
+                        "rawDate": "2021-03-24T10:00:00-04:00",
+                        "time": "10:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "113792868",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espndeportes",
+                                "lang": "es",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>MEM - Angry Sky 03242021</title><guid>espndeportes/MEM - Angry Sky 03242021/1355976</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001000,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "aa63041f-b066-4bc1-8619-4f3de2112aff",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "eo",
+                            "network": "espndeportes",
+                            "programCode": "EODC",
+                            "duration": 10800
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1355976&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1355976"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1402023,
+                        "name": "CFP Megacast Testing",
+                        "shortName": "Sunday NFL Countdown",
+                        "subtitle": "ES • Football",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "12:00:00",
+                        "tags": [
+                            "s:20"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/89ab7f76-5daf-4e08-abf7-ffd778955785/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, December 16",
+                        "shortDate": "Thu, 12/16",
+                        "rawDate": "2021-12-16T09:00:00-05:00",
+                        "time": "9:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a115344638",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espndeportes",
+                                "lang": "es",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>CFP Megacast Testing</title><guid>espndeportes/CFP Megacast Testing/1402023</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1001000,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "89ab7f76-5daf-4e08-abf7-ffd778955785",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "fb",
+                            "network": "espndeportes",
+                            "programCode": "FBPR",
+                            "duration": 43200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1402023&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1402023"
+                        },
+                        "iconHref": "football"
+                    },
+                    {
+                        "id": 1413858,
+                        "name": "Georgia Spring Football Game",
+                        "shortName": "Georgia Spring Football Game",
+                        "subtitle": "Football",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:00:00",
+                        "tags": [
+                            "s:20"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/67c7ae49-10f7-4ca4-b92d-6cd51ea0b334/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Monday, June 27",
+                        "shortDate": "Mon, 6/27",
+                        "rawDate": "2022-06-27T13:00:00-04:00",
+                        "time": "1:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a116310645",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=sec",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "SEC",
+                        "source": "SECN",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>sec</title><item><title>Georgia Spring Football Game</title><guid>sec/Georgia Spring Football Game/1413858</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1000900,
+                        "monitoring": {
+                            "name": "sec"
+                        },
+                        "tracking": {
+                            "trackingId": "67c7ae49-10f7-4ca4-b92d-6cd51ea0b334",
+                            "isStudio": false,
+                            "sport": "Football",
+                            "sportCode": "fb",
+                            "league": "No League",
+                            "network": "sec",
+                            "programCode": "FBCW",
+                            "duration": 7200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413858&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=SEC&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413858"
+                        },
+                        "iconHref": "football"
+                    },
+                    {
+                        "id": 1363609,
+                        "name": "Fútbol Picante",
+                        "shortName": "Fútbol Picante",
+                        "subtitle": "ES • Soccer",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "1:00:00",
+                        "tags": [
+                            "s:600"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/9e0f8380-442c-44ef-a608-dcaa0b26427b/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Wednesday, April 21",
+                        "shortDate": "Wed, 4/21",
+                        "rawDate": "2021-04-21T00:00:00-04:00",
+                        "time": "12:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "112496938",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espndeportes",
+                                "lang": "es",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>Fútbol Picante</title><guid>espndeportes/Fútbol Picante/1363609</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 1000700,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "9e0f8380-442c-44ef-a608-dcaa0b26427b",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "so",
+                            "network": "espndeportes",
+                            "programCode": "SOME",
+                            "duration": 3600
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1363609&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1363609"
+                        },
+                        "iconHref": "soccer"
+                    },
+                    {
+                        "id": 1413859,
+                        "name": "Liberty vs. Northwestern (Championship) (re-air)",
+                        "shortName": "Liberty vs. Northwestern (Championship) (re-air)",
+                        "subtitle": "RE-AIR • Field Hockey",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "1:00:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/11f8966e-c704-484e-bf6d-cb0d17aa3e32/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, June 30",
+                        "shortDate": "Thu, 6/30",
+                        "rawDate": "2022-06-30T08:00:00-04:00",
+                        "time": "8:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a116377412",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espnu",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNU",
+                        "source": "ESPNU",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espnu</title><item><title>Liberty vs. Northwestern (Championship) (re-air)</title><guid>espnu/Liberty vs. Northwestern (Championship) (re-air)/1413859</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 980925,
+                        "monitoring": {
+                            "name": "espnu"
+                        },
+                        "tracking": {
+                            "trackingId": "11f8966e-c704-484e-bf6d-cb0d17aa3e32",
+                            "isStudio": false,
+                            "sport": "Field Hockey",
+                            "sportCode": "fh",
+                            "league": "No League",
+                            "network": "espnu",
+                            "programCode": "FHCO",
+                            "duration": 3600
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1413859&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNU&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1413859"
+                        }
+                    },
+                    {
+                        "id": 1400210,
+                        "name": "California Baptist vs. #8 Texas (re-air)",
+                        "shortName": "California Baptist vs. #8 Texas (re-air)",
+                        "subtitle": "RE-AIR • NCAAM",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:00:00",
+                        "tags": [
+                            "s:40~l:41~t:2856",
+                            "s:40",
+                            "s:40~l:41",
+                            "s:40~l:41~t:251"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/ebf916bc-7fd2-4248-95c0-d8c94f644b8c/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Thursday, December 16",
+                        "shortDate": "Thu, 12/16",
+                        "rawDate": "2021-12-16T15:00:00-05:00",
+                        "time": "3:00 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a115315525",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=longhorn",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "LONGHORN",
+                        "source": "Longhorn",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>longhorn</title><item><title>California Baptist vs. #8 Texas (re-air)</title><guid>longhorn/California Baptist vs. #8 Texas (re-air)/1400210</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 980800,
+                        "monitoring": {
+                            "name": "longhorn"
+                        },
+                        "tracking": {
+                            "trackingId": "ebf916bc-7fd2-4248-95c0-d8c94f644b8c",
+                            "isStudio": false,
+                            "sport": "Basketball",
+                            "sportCode": "bk",
+                            "league": "Men's College Basketball",
+                            "leagueCode": "ncaam",
+                            "network": "longhorn",
+                            "programCode": "BKBL",
+                            "duration": 7200
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1400210&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=LONGHORN&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1400210"
+                        },
+                        "iconHref": "basketball"
+                    },
+                    {
+                        "id": 1409774,
+                        "name": "Kansas vs. #22 Texas (re-air)",
+                        "shortName": "Kansas vs. #22 Texas (re-air)",
+                        "subtitle": "RE-AIR • NCAA Baseball",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "2:30:00",
+                        "tags": [
+                            "s:1~l:4",
+                            "s:1",
+                            "s:1~l:4~t:126",
+                            "s:1~l:4~t:168"
+                        ],
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/4ea072c4-af10-423c-8feb-178fe40dee64/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, May 31",
+                        "shortDate": "Tue, 5/31",
+                        "rawDate": "2022-05-31T21:30:00-04:00",
+                        "time": "9:30 PM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a116275762",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=longhorn",
+                                "lang": "en",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "LONGHORN",
+                        "source": "Longhorn",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>longhorn</title><item><title>Kansas vs. #22 Texas (re-air)</title><guid>longhorn/Kansas vs. #22 Texas (re-air)/1409774</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 980700,
+                        "monitoring": {
+                            "name": "longhorn"
+                        },
+                        "tracking": {
+                            "trackingId": "4ea072c4-af10-423c-8feb-178fe40dee64",
+                            "isStudio": false,
+                            "sport": "Baseball",
+                            "sportCode": "bb",
+                            "league": "NCAA Baseball",
+                            "leagueCode": "ncaa-baseball",
+                            "network": "longhorn",
+                            "programCode": "BBCO",
+                            "duration": 9000
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1409774&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=LONGHORN&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1409774"
+                        },
+                        "iconHref": "baseball"
+                    },
+                    {
+                        "id": 1407272,
+                        "name": "SportsCenter",
+                        "shortName": "SportsCenter",
+                        "subtitle": "RE-AIR • ES • SportsCenter",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "1:00:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/dccb3d0c-2873-4859-88ab-540058aa7a15/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Tuesday, July 05",
+                        "shortDate": "Tue, 7/5",
+                        "rawDate": "2022-07-05T05:00:00-04:00",
+                        "time": "5:00 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "a113604051",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espndeportes",
+                                "lang": "es",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>SportsCenter</title><guid>espndeportes/SportsCenter/1407272</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 980300,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "dccb3d0c-2873-4859-88ab-540058aa7a15",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "sr",
+                            "network": "espndeportes",
+                            "programCode": "SRMD",
+                            "duration": 3600
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1407272&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1407272"
+                        },
+                        "iconHref": "audio02"
+                    },
+                    {
+                        "id": 1279378,
+                        "name": "Ahora o Nunca",
+                        "shortName": "Ahora o Nunca",
+                        "subtitle": "RE-AIR • ES • Talk",
+                        "status": "live",
+                        "type": "event",
+                        "duration": "30:00",
+                        "imageHref": "https://artwork.api.qa.espn.com/artwork/collections/airings/c55c7729-5da5-41db-b7fc-599bf50128d9/default?apikey=1ikk4qqxvu921d8xki1sy2hfv&width=640",
+                        "date": "Saturday, May 09",
+                        "shortDate": "Sat, 5/9",
+                        "rawDate": "2020-05-09T03:30:00-04:00",
+                        "time": "3:30 AM",
+                        "authTypes": [
+                            "mvpd"
+                        ],
+                        "airings": [
+                            {
+                                "airingId": "112031679",
+                                "videoHref": "https://broadband.espnqa.com/espn3/auth/watchespn/startSession?channel=espndeportes",
+                                "lang": "es",
+                                "subtype": "default"
+                            }
+                        ],
+                        "sourceId": "ESPNDEPORTES",
+                        "source": "ESPN Deportes",
+                        "sourceType": "linear",
+                        "adobeRSS": "<rss version='2.0' xmlns:media='http://search.yahoo.com/mrss/'><channel><title>espndeportes</title><item><title>Ahora o Nunca</title><guid>espndeportes/Ahora o Nunca/1279378</guid><media:rating scheme='urn:v-chip'></media:rating></item></channel></rss>",
+                        "origination": "",
+                        "score": 980000,
+                        "monitoring": {
+                            "name": "espndeportes"
+                        },
+                        "tracking": {
+                            "trackingId": "c55c7729-5da5-41db-b7fc-599bf50128d9",
+                            "isStudio": true,
+                            "sport": "studio show",
+                            "league": "studio show",
+                            "sportCode": "ta",
+                            "network": "espndeportes",
+                            "programCode": "TAAN",
+                            "duration": 1800
+                        },
+                        "links": {
+                            "self": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/event?id=1279378&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "play": "http://watch.product.api.espn.com/api/product/v1/watchespn/web/playback/event?network=ESPNDEPORTES&tz=America%2FNew_York&lang=en&countryCode=US&deviceType=desktop&brightcoveEnv=dev",
+                            "web": "http://www.espn.com/watch?id=1279378"
+                        },
+                        "iconHref": "audio02"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -6,7 +6,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
-import static org.openqa.selenium.support.locators.RelativeLocator.*;
+
+import static org.openqa.selenium.support.locators.RelativeLocator.with;
 
 public class RelativeLocators {
     static String url="https://rahulshettyacademy.com/angularpractice/";
